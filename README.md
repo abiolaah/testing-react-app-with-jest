@@ -1,3 +1,8 @@
+# Introduction
+This code was written by following the tutorial on testing React with Jest and React Testing Library by Pedro on [YouTube](https://www.youtube.com/watch?v=JBSUgDxICg8&list=PL8boNCxJXX4OT6AHB_0WsyiplkLx_fOMk&index=3&pp=gAQBiAQB). You can also find Pedro's github [here](https://github.com/machadop1407)
+
+Note: I added by own test cases to the unit tests to create better coverage for various scenarios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
